@@ -1,3 +1,4 @@
+●𓆩𝐃 𝗛 𝐢 𝐌 𝗔 𝐍🥀✘𓆪‌:
 <p align="center">
     <br><b>😫 𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧
  😫</b><br>
@@ -44,18 +45,18 @@ Hey Baby this  is a advance &  one of the fastest Telegram Bot  that allows you 
 <details>
 <summary><h3> Commands 🛠</h3></summary> 
 
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-- `/ping` - Bot Online or Offine
+- /play <song name> - play song you requested
+- /song <song name> - download songs you want quickly
+- /ping - Bot Online or Offine
 
 #### Admins Only 👷‍♂️
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
+- /pause - pause song play
+- /resume - resume song play
+- /skip - play next song
+- /end - stop music play
 </details>
 
-### 🧪 Get `SESSION_NAME` variable:
+### 🧪 Get SESSION_NAME variable:
 
 [``Pyrogram Session``](https://telegram.me/StringFatherBot)
 
@@ -70,8 +71,8 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ### ᴄʀᴇᴅɪᴛs 👑
-- [STEFFEN 999  𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
-- [𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧](http://t.me/alexiaXsteffen_bot): Use this Bot
+- [𝐃𝐇𝐈𝐌𝐀𝐍 𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
+- [𓆩𝐃𝐇𝐈𝐌𝐀𝐍𓆪⁩ 🎧](http://t.me/alexiaXsteffen_bot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
